@@ -1,51 +1,53 @@
 # Certifications
 
-This repository is a structured archive of professional certificates and training records across data science, machine learning, cloud, Python, SQL, and workplace compliance.
-
 ## Overview
 
-- 95 PDF documents
-- Primary providers: Udemy, Coursera, CloudAcademy, Databricks, and Analytics Vidhya
-- Additional root-level records for compliance and miscellaneous training
+This repository is a structured archive of professional certificates and training records across data science, machine learning, cloud, Python, SQL, and workplace compliance.
 
-## Repository Structure
+## Contents
 
-```text
-Certifications/
-|-- Analytics Vidhya/
-|-- CloudAcademy/
-|-- Codebasics/
-|-- Coursera Certificates/
-|-- Databricks/
-|-- Udemy Certificates/
-|-- *.pdf
-```
+### Top-Level Structure
 
-## Collections
+- `.gitattributes`
+- `Acceptable Use and Data Security.pdf`
+- `Analytics Vidhya/`
+- `Be Cognizant Our Code of Ethics (Tenured Associates).pdf`
+- `CHANGELOG.md`
+- `CloudAcademy/`
+- `CODE_OF_CONDUCT.md`
+- `CONTRIBUTING.md`
+- `Coursera Certificates/`
+- `CumminsPhishingCourseCompletionCertificate.pdf`
+- `Databricks/`
+- `LICENSE`
+- ... and 4 more entries
 
-| Folder | Description | Files |
-| --- | --- | ---: |
-| `Analytics Vidhya/` | Analytics Vidhya certificate exports | 7 |
-| `CloudAcademy/` | Data, databases, visualization, and ML foundations | 9 |
-| `Codebasics/` | Reserved for future certificates | 0 |
-| `Coursera Certificates/` | Machine learning, deep learning, statistics, and SQL | 27 |
-| `Databricks/` | Databricks and Spark-focused learning | 4 |
-| `Udemy Certificates/` | Python, AI, deep learning, MLOps, cloud, and related topics | 44 |
-| Root PDFs | Compliance, workplace training, and uncategorized records | 4 |
+### File Type Summary
 
-## Scope
+- `(no extension)`: 2 file(s)
+- `.md`: 5 file(s)
+- `.pdf`: 4 file(s)
 
-The archive includes certificates related to:
+## Usage
 
-- Data science and analytics
-- Machine learning and deep learning
-- Python and applied programming
-- SQL and data wrangling
-- Cloud platforms and Databricks
-- Professional and compliance training
+- Use this repository as a source of reusable assets, references, or templates.
+- Keep additions organized by topic and naming conventions already used in this repository.
+- Prefer descriptive filenames and avoid duplicating equivalent artifacts.
 
-## Notes
+## Maintenance
 
-- Files are stored as source PDFs.
-- Some documents retain the original export names from their providers.
-- Similar filenames may exist where multiple exports were preserved.
+- Add brief context for new major assets in this README.
+- Track important repository-level updates in [CHANGELOG.md](CHANGELOG.md).
+- Follow contribution and conduct policies before submitting changes.
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for reporting guidance.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## License
+
+This repository is licensed as described in [LICENSE](LICENSE).
